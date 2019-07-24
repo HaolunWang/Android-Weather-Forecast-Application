@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Study\Lovely Pollen Project\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_e093e48fdb65281f3529560ec376d95ccd881770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Study\Lovely Pollen Project\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_fae0c2e3b95c82677ed7a5eb24ac63afeea03d51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Study\Lovely Pollen Project\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5278e7b1cc88c696ead06e816b1a17728d977778.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Study\Lovely Pollen Project\app\build\intermediates\exploded-aar\org.litepal.android\core\1.3.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9a24b1b000b211eabfa13b5834c059818bc98fd5">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\org.litepal.android-core-1.3.2_c824cfff75a208d08972d516f4d18451c1a634ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lynchliu\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\gson-2.7_7c69c74f3738d017edde9169379632148d6ac178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Study\Lovely Pollen Project\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_8632e79a99e6e275492b1db4c4a797591ccde568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lynchliu\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\glide-3.7.0_8e8d53c725665001aa0e176328eb7559599975d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Study\Lovely Pollen Project\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_488d8ccb5ad2e8021c38de558ed743514d9cdf2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Study\Lovely Pollen Project\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_6b764a9420e0ae70886398215ba5b200d15025b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Study\Lovely Pollen Project\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_db64c9b273d54363249f031148b76064da4bf3fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Study\Lovely Pollen Project\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d3d64205904701dd4ebcfde879f01bdb7a07335e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Study\Lovely Pollen Project\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_1d7b043562ec0952ad4eaf1fd3f68e75ddb74578.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Study\Lovely Pollen Project\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_a65e81138b729edd8cfa290a8b51426c3abcdcd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Study\Lovely Pollen Project\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_8a276160ed4f1855126e572bfa4fd41fd5cd4a34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Study\Lovely Pollen Project\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6032f34225c63836a5717c796f9dd0a107477f69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Study\Lovely Pollen Project\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_7484fbce399ce36d38a9c89420b1797f41d545b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Study\Lovely Pollen Project\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_20d2f23f538c9f25e62f4e8218eeaf224e49ac90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Study\Lovely Pollen Project\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ab33a2be7379b96b77bc681d47b6dcf6a4be1323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Study\Lovely Pollen Project\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cb90c06ca0f27c2dd46baf5373a89411edecfea7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lynchliu\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\okio-1.9.0_0d3365bcf6165edfdd2adb40b22d6348252c41dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lynchliu\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_7455e636f924881477c29ed63985cf85d842860b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lynchliu\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\Study\Lovely Pollen Project\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_9430de6d5f9d074b1ea631c38d46d6750cc2f886.jar" />
+    </item>
+
+</items>
