@@ -1,3 +1,3 @@
-# Android-Weather-Forecast-Application
+# Android Weather Forecast Application
  
  This is a Android application created on Android Studio
